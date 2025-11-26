@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am currently pursuing my B.Tech. from IIIT Senapati(2024-2028)
-
+A passionate coding enthusiast pursuing my B.Tech at IIIT Senapati (2024–2028), with a strong interest in software development and open-source technologies.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/anujrewar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anuj.r55) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Anuj Rewar) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@TechAnuj) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anujrewar5@gmail.com) 
